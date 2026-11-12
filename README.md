@@ -34,6 +34,7 @@
 | Project | What it is | Stack |
 |---|---|---|
 | [aca-capstone-terraform](https://github.com/bruceweygandt/aca-capstone-terraform) | Re-architecture of a single-host PHP and MySQL app into a highly available, private three-tier AWS design, assessed against FedRAMP 20x KSIs and NIST 800-53, with scheduled evidence collection | Terraform, AWS |
+| [purview-action-update](https://github.com/paramify/purview-action-update) | Updates Microsoft Purview Compliance Manager improvement actions from Paramify. Compliance Manager has no write API, so the tool fills in the Action Update workbook for re-upload. It reads Paramify only and never connects to Microsoft 365. Published as Paramify open source. | Python |
 | [audit-assessment-converter](https://github.com/bruceweygandt/audit-assessment-converter) | Terminal UI that turns an auditor's CSV report into an audit assessment file ready to import into Paramify, with a live preview and demo data | Go |
 | [bruceweygandt.github.io](https://github.com/bruceweygandt/bruceweygandt.github.io) | My website and engineering blog | HTML, CSS |
 
